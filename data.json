@@ -1,0 +1,30 @@
+{
+    "steamers":[
+        {"id":1,"name":"Tefal", "cost":1000, "power":200},
+        {"id":2,"name":"RUSSELL", "cost":200, "power":300},
+        {"id":3,"name":"CECOTEC", "cost":350, "power":200},
+        {"id":4,"name":"SATURN", "cost":400, "power":100},
+        {"id":5,"name":"Braun", "cost":100, "power":500},
+        {"id":6,"name":"Tefal", "cost":850, "power":600},
+        {"id":7,"name":"SATURN", "cost":354, "power":750},
+        {"id":8,"name":"CECOTEC", "cost":453, "power":450},
+        {"id":9,"name":"Tefal", "cost":1205, "power":200},
+        {"id":10,"name":"RUSSELL", "cost":1235, "power":350},
+        {"id":11,"name":"Edenberg", "cost":1205, "power":400},
+        {"id":12,"name":"Steba", "cost":525, "power":800},
+        {"id":13,"name":"Tefal", "cost":456, "power":1000},
+        {"id":14,"name":"RUSSELL", "cost":854, "power":300},
+        {"id":15,"name":"Tefal", "cost":4685, "power":500},
+        {"id":16,"name":"Maestro", "cost":3543, "power":850},
+        {"id":17,"name":"Steba", "cost":4385, "power":435},
+        {"id":18,"name":"RUSSELL", "cost":4532, "power":750},
+        {"id":19,"name":"Zelmer", "cost":4538, "power":500},
+        {"id":20,"name":"Maestro", "cost":2385, "power":600},
+        {"id":21,"name":"Steba", "cost":453, "power":300},
+        {"id":22,"name":"Maestro", "cost":854, "power":200},
+        {"id":23,"name":"Tefal", "cost":654, "power":452},
+        {"id":24,"name":"Steba", "cost":254, "power":650},
+        {"id":25,"name":"RUSSELL", "cost":4568, "power":850},
+        {"id":26,"name":"Zelmer", "cost":456, "power":450}
+    ]
+}
